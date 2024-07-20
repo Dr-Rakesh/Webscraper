@@ -2,10 +2,10 @@
 set -e  # Exit immediately if a command exits with a non-zero status.
 
 # Variables (customize these values)
-RESOURCE_GROUP="your-resource-group"
-LOCATION="your-location"
-APP_SERVICE_PLAN="your-app-service-plan"
-WEB_APP_NAME="your-web-app-name"
+RESOURCE_GROUP="ITP-MLOps-Team-Cognitive-Services-RG"
+LOCATION="East US"
+APP_SERVICE_PLAN="asp-intuitivescotia (B1: 1)"
+WEB_APP_NAME="Datasourcing"
 RUNTIME="PYTHON:3.8"
 
 # Login to Azure (for non-interactive login, use a service principal or managed identity)
