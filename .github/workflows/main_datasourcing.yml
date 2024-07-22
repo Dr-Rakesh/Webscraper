@@ -27,7 +27,6 @@ jobs:
         run: |
           source venv/bin/activate
           pip install -r requirements.txt
-          pip install uvicorn
       
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
 
