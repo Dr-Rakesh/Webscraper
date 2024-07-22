@@ -8,3 +8,4 @@ webdriver-manager
 yt-dlp
 uvicorn
 jinja2
+gunicorn
